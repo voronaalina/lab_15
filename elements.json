@@ -1,0 +1,6 @@
+{
+    "H": {"name": "Водень", "number": 1, "mass": 1.008},
+    "He": {"name": "Гелій", "number": 2, "mass": 4.003},
+    "Li": {"name": "Літій", "number": 3, "mass": 6.941},
+    "Na": {"name": "Натрій", "number": 11, "mass": 22.989}
+}
